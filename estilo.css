@@ -1,6 +1,6 @@
 body{
 	font: 30px 'arial';
-	color: darkblue;
+	color: blue;
 }
 h1{
 	font: 70px 'Comic Sans MS';
@@ -10,5 +10,5 @@ span{
 	color: red;
 }
 .foto{
-	width: 300px;
+	width: 325px;
 }
