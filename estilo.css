@@ -1,14 +1,20 @@
 body{
 	font: 30px 'arial';
-	color: blue;
+	color: darkred;
 }
 h1{
 	font: 70px 'Comic Sans MS';
 
 }
 span{
-	color: red;
+	color: black;
 }
 .foto{
 	width: 350px;
+}
+.PHOTO{
+    width: 600px; 
+}
+span{
+	color:green;
 }
